@@ -39,7 +39,7 @@ I'm an experienced Web Developer passionate about building modern, high-performa
 ## 📈 GitHub Stats  
 
 <!-- GitHub Stats Cards -->
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)](https://github.com/hkrene)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=hkrene&show_icons=true&theme=dark)](https://github.com/hkrene)
 
 <!-- Streak Stats -->
 [![GitHub Streak](https://streak-stats.demolab.com/?user=hkrene&theme=dark)](https://git.io/streak-stats)
