@@ -39,24 +39,24 @@ I'm an experienced Web Developer passionate about building modern, high-performa
 ## 📈 GitHub Stats  
 
 <!-- GitHub Stats Cards -->
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)](https://github.com/yourusername)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)](https://github.com/hkrene)
 
 <!-- Streak Stats -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=hkrene&theme=dark)](https://git.io/streak-stats)
 
 <!-- Top Languages -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)](https://github.com/yourusername)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hkrene&layout=compact&theme=dark)](https://github.com/hkrene)
 
 ## 🚀 Notable Projects  
 
-### [Short URL](https://github.com/yourusername/short-url)  
+### [Short URL](https://github.com/hkrene/short-url)  
 🔗 URL shortening service built with Tailwind CSS, PostgreSQL and AdonisJS  
 
-### [Pharma Manager](https://github.com/yourusername/pharma-manager)  
+### [Pharma Manager](https://github.com/hkrene/pharmasoftware)  
 💊 Scalable backend application with Tailwind CSS, PostgreSQL and AdonisJS  
 
-### [Portfolio](https://github.com/yourusername/portfolio)  
-🎨 Modern responsive UI portfolio  
+### [Novaweb solutions](https://novaweb-solutions.netlify.app/)  
+🎨 Modern responsive UI websites  
 
 ## 📫 Contact Me  
 
