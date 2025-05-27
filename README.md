@@ -146,6 +146,6 @@ I'm an experienced Web Developer passionate about building modern, high-performa
 
   <a href="https://linkedin.com/in/hirwa-rene"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"></a>
 
-  <a href="https://techlay-hub.netlify.app/"><img src="https://img.shields.io/badge/-Techlay-Hub-FF5722?logo=web&logoColor=white&style=for-the-badge" alt="Techlay Hub"></a>
+  <a href="https://techlay-hub.netlify.app/"><img src="https://img.shields.io/badge/-TechlayHub-FF5722?logo=web&logoColor=white&style=for-the-badge" alt="Techlay Hub"></a>
 
 </p>
