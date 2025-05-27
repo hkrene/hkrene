@@ -122,15 +122,13 @@ I'm an experienced Web Developer passionate about building modern, high-performa
 ### 🚀  Notable Projects
 
 
-### 🚀 Projects
-
 
 
 - **[Projet 1 - Pharma Software app](https://github.com/hkrene/pharma-software)** : 💊 Scalable backend application with Tailwind CSS, PostgreSQL and AdonisJS  
 
-- **[Projet 2 -  Dream Journey Travel Agency](https://github.com/hkrene/travel-go)** : 🎨 Modern responsive UI travel agency websites  
+- **[Projet 2 -  Dream Journey Travel Agency](https://github.com/hkrene/travel-go)** : 🎨 Modern responsive UI travel agency website 
  
-- **[Projet 3 - Techlay Hub](https://techlay-hub.netlify.app/)** : 🎨 Modern responsive UI websites  
+- **[Projet 3 - Techlay Hub](https://techlay-hub.netlify.app/)** : 🎨 Modern responsive UI website
 
 
 
@@ -144,10 +142,10 @@ I'm an experienced Web Developer passionate about building modern, high-performa
 
 <p align="center">
 
-  <a href="mailto:hirwarwarene6@gmail.com"><img src="https://img.shields.io/badge/-Envoyer%20un%20email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="send me an email"></a>
+  <a href="mailto:hirwarwarene6@gmail.com"><img src="https://img.shields.io/badge/-Send%20un%20email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="send me an email"></a>
 
   <a href="https://linkedin.com/in/hirwa-rene"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"></a>
 
-  <a href="https://techlay-hub.netlify.app/"><img src="https://img.shields.io/badge/-Portfolio-FF5722?logo=web&logoColor=white&style=for-the-badge" alt="Techlay Hub"></a>
+  <a href="https://techlay-hub.netlify.app/"><img src="https://img.shields.io/badge/-Techlay-Hub-FF5722?logo=web&logoColor=white&style=for-the-badge" alt="Techlay Hub"></a>
 
 </p>
