@@ -131,7 +131,7 @@ I'm an experienced Web Developer passionate about building modern, high-performa
 
 - **[Projet 2 -  Dream Journey Travel Agency](https://github.com/hkrene/travel-go)** : 🎨 Modern responsive UI travel agency website 
  
-- **[Projet 3 - Techlay Hub](https://techlay-hub.netlify.app/)** : 🎨 Modern responsive UI website
+- **[Projet 3 - Techlay Hub](https://techlayhub.netlify.app/)** : 🎨 Modern responsive UI website
 
 
 
