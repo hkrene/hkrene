@@ -155,14 +155,14 @@ I'm an experienced Web Developer passionate about building modern, high-performa
 
 
 
-### 👨‍💻  📫 Contact Me 
+###   📫 Let's Discuss Your Project 
 
 
 
 <p align="center">
 
   <a href="mailto:hirwarwarene6@gmail.com">
-    <img src="https://img.shields.io/badge/-Let's%20Discuss%20your Project-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="send me an email">
+    <img src="https://img.shields.io/badge/-Email%20-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="send me an email">
   </a>
 
   <a href="https://linkedin.com/in/hirwa-rene">
