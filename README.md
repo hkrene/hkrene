@@ -92,12 +92,11 @@ I'm an experienced Web Developer passionate about building modern, high-performa
 
 ---
 
-##**Profile View & Top GitHub Contributor Rank**
-
-  [![committers.top badge](https://user-badge.committers.top/congo_kinshasa/hkrene.svg)](https://user-badge.committers.top/congo_kinshasa/hkrene)
-</br>
+## **Profile View & Top GitHub Contributor Rank**
+  
 
 <div align="center">
+  [![committers.top badge](https://user-badge.committers.top/congo_kinshasa/hkrene.svg)](https://user-badge.committers.top/congo_kinshasa/hkrene)
   <img src="https://komarev.com/ghpvc/?username=hkrene&style=flat-square&color=6366f1" alt="profile views" />
 </div>
 
