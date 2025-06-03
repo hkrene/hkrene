@@ -92,6 +92,16 @@ I'm an experienced Web Developer passionate about building modern, high-performa
 
 ---
 
+##**Profile View & Top GitHub Contributor Rank**
+
+  [![committers.top badge](https://user-badge.committers.top/congo_kinshasa/hkrene.svg)](https://user-badge.committers.top/congo_kinshasa/hkrene)
+</br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=hkrene&style=flat-square&color=6366f1" alt="profile views" />
+</div>
+
+---
 
 
 ### 📈 GitHub Stats 
@@ -150,6 +160,5 @@ I'm an experienced Web Developer passionate about building modern, high-performa
   <a href="https://linkedin.com/in/hirwa-rene"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"></a>
 
   <a href="https://techlayhub.netlify.app/"><img src="https://img.shields.io/badge/-Techlay Hub-FF5722?logo=web&logoColor=white&style=for-the-badge" alt="Techlay Hub"></a>
-  [![committers.top badge](https://user-badge.committers.top/congo_kinshasa/hkrene.svg)](https://user-badge.committers.top/congo_kinshasa/hkrene)
 
 </p>
