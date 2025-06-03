@@ -94,13 +94,17 @@ I'm an experienced Web Developer passionate about building modern, high-performa
 
 ## Profile View & Top GitHub Contributor Rank
   
-<p align="center">
-  <a href="https://user-badge.committers.top/congo_kinshasa/hkrene">
-    <img src="https://user-badge.committers.top/congo_kinshasa/hkrene.svg" alt="committers.top badge" />
-  </a>
-  <br />
-  <img src="https://komarev.com/ghpvc/?username=hkrene&style=flat-square&color=6366f1" alt="profile views" />
-</p>
+<div align="center">
+  <span>
+    <a href="https://user-badge.committers.top/congo_kinshasa/hkrene">
+      <img src="https://user-badge.committers.top/congo_kinshasa/hkrene.svg" alt="committers.top badge" />
+    </a>
+  </span>
+  <span style="margin-left: 10px;">
+    <img src="https://komarev.com/ghpvc/?username=hkrene&style=flat-square&color=6366f1" alt="profile views" />
+  </span>
+</div>
+
 
 
 ---
