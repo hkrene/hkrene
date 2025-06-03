@@ -92,7 +92,7 @@ I'm an experienced Web Developer passionate about building modern, high-performa
 
 ---
 
-## **Profile View & Top GitHub Contributor Rank**
+## Profile View & Top GitHub Contributor Rank
   
 [![committers.top badge](https://user-badge.committers.top/congo_kinshasa/hkrene.svg)](https://user-badge.committers.top/congo_kinshasa/hkrene)
 <div align="">
