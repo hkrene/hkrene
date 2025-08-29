@@ -3,18 +3,18 @@
 
 
 
-### 🌟  About Me  
+###  Who am I ?  
 
 
 
-I'm an experienced Web Developer passionate about building modern, high-performance applications. With expertise in the JavaScript ecosystem, I craft elegant frontend solutions and robust backend architectures.
+I'm an experienced Web and mobile Developer passionate about building modern, high-performance applications. With expertise in the JavaScript ecosystem, I craft elegant frontend solutions and robust backend architectures.
 
 
 
 
 - 🌐 **Core Languages**: JavaScript (ES6+)  
 
-- ⚛️ **Frameworks/Librairies** : React, AdonisJS
+- ⚛️ **Frameworks/Librairies** : React,React Native, AdonisJS
 
 - 💾 **Databases**: PostgreSQL
 
@@ -28,7 +28,7 @@ I'm an experienced Web Developer passionate about building modern, high-performa
 
 
 
-### 🛠️ Skills
+### Skills
 
 
 
@@ -65,7 +65,7 @@ I'm an experienced Web Developer passionate about building modern, high-performa
 
 
 
-### 💻 Tech Stack 
+### Tech Stack 
 
 
 
@@ -75,17 +75,22 @@ I'm an experienced Web Developer passionate about building modern, high-performa
 
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="React">
 
+  <img src="https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="React Native">
+
   <img src="https://img.shields.io/badge/-AdonisJS-5A45FF?logo=adonisjs&logoColor=white&style=for-the-badge" alt="AdonisJS">
 
   <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" alt="PostgreSQL">
 
   <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" alt="Tailwind CSS">
 
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5">
+
   <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3">
 
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git">
 
 </p>
+
 
 
 
@@ -110,7 +115,7 @@ I'm an experienced Web Developer passionate about building modern, high-performa
 ---
 
 
-### 📈 GitHub Stats 
+### GitHub Stats 
 
 
 
@@ -130,7 +135,6 @@ I'm an experienced Web Developer passionate about building modern, high-performa
 
 </p>
 
-<img align="left" width="400" alt="🦑" src="https://user-images.githubusercontent.com/22963968/190084456-0e077445-abae-4355-8061-5f0830a48d6e.png">
 
 
 ---
@@ -138,10 +142,12 @@ I'm an experienced Web Developer passionate about building modern, high-performa
 
 
 
-### 🚀  Notable Projects
 
 
 
+
+
+## 📂 Projects
 
 - **[Projet 1 - Pharma Software app](https://github.com/hkrene/pharma-software)** : 💊 Scalable backend application for **pharmaceutical management**.  
   Features include:  
@@ -150,25 +156,43 @@ I'm an experienced Web Developer passionate about building modern, high-performa
   - 📝 Prescription and order tracking  
   - 📊 Dashboard for analytics and reports  
   - 🗄️ Built with **AdonisJS** (backend), **PostgreSQL** (database), and **Tailwind CSS** (UI)  
+  - 🌐 Deployed on **railway** (backend)  
 
-
-- **[Projet 2 - Mobile Services](https://mobileservice.netlify.app/)** : 📱 A modern, responsive website for a **phone repair service**.  
+- **[Projet 2 - Mobile Services](https://mobileservice.netlify.app/)** : 📱 Modern responsive website for a **phone repair service**.  
   Features include:  
   - 🎨 Clean and user-friendly UI  
   - 📱 Fully responsive design (desktop & mobile)  
-  - 🛠️ Showcase of repair services (screen replacement, battery, water damage, etc.)  
-  - 📍 Contact & booking section for customers  
+  - 🛠️ Showcase of repair services (screen, battery, water damage, etc.)  
+  - 📍 Contact and booking section for customers  
+  - ⚛️ Built with **React** and **Tailwind CSS**  
+  - 🌐 Deployed on **Netlify**  
 
- 
-- **[Projet 3 - Techlay Hub](https://techlayhub.netlify.app/)** : 🎨 Modern responsive UI website
+- **[Projet 3 - Techlay Hub](https://techlayhub.netlify.app/)** : 🎨 Modern responsive website for a **web development agency**.  
+  Features include:  
+  - 💻 Service presentation and portfolio showcase  
+  - 📱 Responsive layout optimized for all devices  
+  - 📍 Contact and inquiry section  
+  - ⚛️ Built with **React** and **Tailwind CSS**  
+  - 🌐 Deployed on **Netlify**  
 
+- **[Projet 4 - X Clone](https://github.com/hkrene/x-clone)** : 🐦 Open-source **Twitter clone** built with AdonisJS 6 and PostgreSQL.  
+  Features include:  
+  - 📝 Create, like, retweet, and reply to tweets  
+  - 🎥 Support for media uploads (images & videos)  
+  - 👥 User profiles with followers & following system  
+  - 🔒 Authentication with sessions (login, signup, password reset)  
+  - 📊 Real-time feed with pagination  
+  - 🗄️ Backend powered by **AdonisJS 6** + **PostgreSQL**, UI with **Edge templates** and **Tailwind CSS**  
+  - 🌐 Deployed on **railway** (backend)  
 
 
 ---
 
 
+<img align="left" width="400" alt="🦑" src="https://user-images.githubusercontent.com/22963968/190084456-0e077445-abae-4355-8061-5f0830a48d6e.png">
 
-###   📫 Let's Discuss Your Project 
+
+###   Let's Discuss Your Project 
 
 
 
