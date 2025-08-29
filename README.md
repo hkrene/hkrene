@@ -143,9 +143,22 @@ I'm an experienced Web Developer passionate about building modern, high-performa
 
 
 
-- **[Projet 1 - Pharma Software app](https://github.com/hkrene/pharma-software)** : 💊 Scalable backend application with Tailwind CSS, PostgreSQL and AdonisJS  
+- **[Projet 1 - Pharma Software app](https://github.com/hkrene/pharma-software)** : 💊 Scalable backend application for **pharmaceutical management**.  
+  Features include:  
+  - 📦 Inventory and stock management  
+  - 👥 User authentication & role-based access  
+  - 📝 Prescription and order tracking  
+  - 📊 Dashboard for analytics and reports  
+  - 🗄️ Built with **AdonisJS** (backend), **PostgreSQL** (database), and **Tailwind CSS** (UI)  
 
-- **[Projet 2 -  Dream Journey Travel Agency](https://github.com/hkrene/travel-go)** : 🎨 Modern responsive UI travel agency website 
+
+- **[Projet 2 - Mobile Services](https://mobileservice.netlify.app/)** : 📱 A modern, responsive website for a **phone repair service**.  
+  Features include:  
+  - 🎨 Clean and user-friendly UI  
+  - 📱 Fully responsive design (desktop & mobile)  
+  - 🛠️ Showcase of repair services (screen replacement, battery, water damage, etc.)  
+  - 📍 Contact & booking section for customers  
+
  
 - **[Projet 3 - Techlay Hub](https://techlayhub.netlify.app/)** : 🎨 Modern responsive UI website
 
