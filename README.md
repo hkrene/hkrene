@@ -2,63 +2,33 @@
 ---
 
 
+<p align="center">
+ <samp>Hey 👋! Hirwa Rene here </samp></br>
+  <samp>
+    <code>A simple guy, a hard worker, passionate about full-stack development, creative development</code><br/>
+    <code>I like to build things in the right way</code><br/>
+    <code>Focused on performance optimization, clean code, creative solutions and solid architecture</code><br/>
+    <code>AI integration, and seamless user experiences</code><br/>
+    <code>Blockchain enthusiast, manga and solo travel lover #Borderless citizen</code><br/>
+    <p align="center">
+      <samp>
+        <a href="https://hirwarene-dev.netlify.app/">Website</a> ᐧ
+        <a href="https://www.linkedin.com/in/hirwa-rene-550242216">LinkedIn</a> ᐧ
+        <a href="https://x.com/hkRene_">X</a>
+        <a href="https://wa.me/243971379450">WhatsApp</a>
+      </samp>
+    </p>
+  </samp>
+</p>
 
-###  Who am I ?  
-
-
-
-I'm an experienced Web and mobile Developer passionate about building modern, high-performance applications. With expertise in the JavaScript ecosystem, I craft elegant frontend solutions and robust backend architectures.
-
-
-
-
-- 🌐 **Core Languages**: JavaScript (ES6+)  
-
-- ⚛️ **Frameworks/Librairies** : React,React Native, AdonisJS
-
-- 💾 **Databases**: PostgreSQL
-
-- 💾 **Templates** : EdgeJS 
-
-- 🎨 **Design**: Modern, responsive interfaces 
-
-
-
----
-
-
-
-### Skills
-
-
-
-#### **Frontend**
-
-- Developing dynamic, interactive UIs with React  
-
-- Implementing modern responsive designs  
-
-- Leveraging latest JavaScript features  
-
-
-
-#### **Backend**
-
-- Building RESTful and GraphQL APIs with AdonisJS  
-
-- Implementing authentication and user roles  
-
-- Server performance optimization  
-
-
-
-
-#### **Database**
-  
-- Relational database modeling with PostgreSQL  
-
-- Writing optimized SQL queries for large-scale apps  
-
+<p align="center">
+  <samp>🔑 TypeScript | Adonis.js | </samp></br>
+  <samp>🛠 React | React Native | </samp></br>
+  <samp>⚡  Performance Optimization</samp></br>
+  <samp>💾 Postgres SQL</samp></br>
+  <samp>🎨 Figma | UI/UX Design</samp></br>
+  <samp>📌 Git-GitHub | Agile | Clean Architecture</samp>
+</p>
 
 
 ---
@@ -97,45 +67,37 @@ I'm an experienced Web and mobile Developer passionate about building modern, hi
 
 ---
 
-## Profile View & Top GitHub Contributor Rank
-  
-<div align="center">
-  <span>
-    <a href="https://user-badge.committers.top/congo_kinshasa/hkrene">
-      <img src="https://user-badge.committers.top/congo_kinshasa/hkrene.svg" alt="committers.top badge" />
-    </a>
-  </span>
-  <span style="margin-left: 10px;">
-    <img src="https://komarev.com/ghpvc/?username=hkrene&style=flat-square&color=6366f1" alt="profile views" />
-  </span>
-</div>
 
-
-
----
-
-
-### GitHub Stats 
-
-
+<h2 align="center"> 🤝❤ Views and Followers :eyes:</h2>
 
 <p align="center">
+   
+<a href="https://user-badge.committers.top/congo_kinshasa/hkrene">
+      <img src="https://user-badge.committers.top/congo_kinshasa/hkrene.svg" alt="committers.top badge" />
+</a>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=hkrene&show_icons=true&theme=radical&hide_title=true" alt="Statistiques GitHub">
+<a href="https://github.com/hkrene/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=hkrene">
+</a>
+    <a href="https://github.com/hkrene?tab=followers">
+        <img src="https://img.shields.io/github/followers/hkrene?label=Followers&style=social" alt="GitHub Badge">
+    </a>
+</p>
 
+<br/>
+
+<!-- START My Github Profile Trophy SECTION -->
+<p align="center">
+  <img width="100" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />
+  <h2 align="center">My Github Profile Stats and Trophy</h2>
 </p>
 
 <p align="center">
-
+  <img alt="hkrene's stats" src="https://github-readme-stats.vercel.app/api?username=hkrene&show_icons=true&icon_color=2F81F7&layout=compact&show_owner=true&theme=gotham&text_color=999999&bg_color=00000000&title_color=2F81F7&hide_title=true&hide_border=true" />
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkrene&include_all_commits=true&layout=compact&langs_count=6&hide=html,css,less,scss,hack,php,javascript,blade&show_icons=true&icon_color=2F81F7&count_private=true&theme=gotham&text_color=999999&bg_color=00000000&title_color=2F81F7&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hkrene&theme=radical" alt="GitHub Streak">
 
 </p>
-
-<p align="center">
-
-</p>
-
-
 
 ---
 
@@ -192,28 +154,11 @@ I'm an experienced Web and mobile Developer passionate about building modern, hi
 <img align="left" width="400" alt="🦑" src="https://user-images.githubusercontent.com/22963968/190084456-0e077445-abae-4355-8061-5f0830a48d6e.png">
 
 
-###   Let's Discuss Your Project 
+
+   
 
 
 
-<p align="center">
 
-  <a href="mailto:hirwarwarene6@gmail.com">
-    <img src="https://img.shields.io/badge/-Email%20-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="send me an email">
-  </a>
 
-  <a href="https://linkedin.com/in/hirwa-rene">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
-  </a>
 
-   <a href="https://wa.me/243971379450">
-    <img src="https://img.shields.io/badge/-WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge" alt="WhatsApp">
-  </a>
-  
-  <a href="https://techlayhub.netlify.app/">
-    <img src="https://img.shields.io/badge/-Techlay Hub-FF5722?logo=web&logoColor=white&style=for-the-badge" alt="Techlay Hub">
-  </a>
-
- 
-
-</p>
