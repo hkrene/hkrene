@@ -14,7 +14,7 @@
       <samp>
         <a href="https://hirwarene-dev.netlify.app/">Website</a> ᐧ
         <a href="https://www.linkedin.com/in/hirwa-rene-550242216">LinkedIn</a> ᐧ
-        <a href="https://x.com/hkRene_">X</a> .
+        <a href="https://x.com/hkRene_">X</a> ᐧ
         <a href="https://wa.me/243971379450">WhatsApp</a>
       </samp>
     </p>
