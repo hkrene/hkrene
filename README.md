@@ -39,7 +39,7 @@
 
 
 
-<p align="center">
+<samp align="center">
 
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" alt="JavaScript">
 
@@ -59,7 +59,7 @@
 
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git">
 
-</p>
+</samp>
 
 
 
