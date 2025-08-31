@@ -103,12 +103,6 @@
 
 
 
-
-
-
-
-
-
 ## 📂 Projects
 
 - **[Projet 1 - Pharma Software app](https://github.com/hkrene/pharma-software)** : 💊 Scalable backend application for **pharmaceutical management**.  
