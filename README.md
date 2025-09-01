@@ -45,8 +45,6 @@
 
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="React">
 
-  <img src="https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="React Native">
-
   <img src="https://img.shields.io/badge/-AdonisJS-5A45FF?logo=adonisjs&logoColor=white&style=for-the-badge" alt="AdonisJS">
 
   <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" alt="PostgreSQL">
