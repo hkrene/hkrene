@@ -37,7 +37,7 @@ TYPESCRIPT • NEXT.JS • ADONIS.JS • REACT NATIVE • POSTGRESQL • FIGMA
 
 ### // SYSTEM PERFORMANCE
 
-<img src="https://github-readme-stats.vercel.app/api?username=hkrene&show_icons=true&theme=transparent&hide_border=true&title_color=2F81F7&icon_color=2F81F7&text_color=999999" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=hkrene&show_icons=true&theme=transparent&hide_border=true&title_color=2F81F7&icon_color=2F81F7&text_color=999999&count_private=true&cache_seconds=1800" height="150" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkrene&layout=compact&theme=transparent&hide_border=true&title_color=2F81F7&text_color=999999" height="150" />
 
 <br>
